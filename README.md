@@ -59,28 +59,13 @@ REST APIs
 
 ---
 
-## Current Project
 
-```
-Dental Clinic Management System
-
-├── Multi-tenant ready
-├── RBAC Authorization
-├── Appointment Management
-├── Electronic Medical Records
-├── Financial & Installments
-├── Prescription Module
-├── Inventory
-└── Reporting
-```
-
----
 
 ## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MasoudRzg&show_icons=true&hide_border=true&theme=transparent"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
 
@@ -92,7 +77,7 @@ Dental Clinic Management System
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MasoudRzg&theme=github-compact&hide_border=true"/>
 
 </div>
 
