@@ -1,28 +1,118 @@
-## Hi there 👋
+<div align="center">
 
-I'm a Backend Developer focused on building scalable, maintainable, and domain-driven applications with **Python** and **Django**.
+# Masoud Razzaghi
 
-### 💻 Tech Stack
+```text
+Backend Developer
+Python • Django • PostgreSQL • Docker
+```
 
-* Python
-* Django & Django REST Framework
-* PostgreSQL
-* Docker
-* Redis
-* Git & GitHub
+<p>
+Building software that stays maintainable as it grows.
+</p>
 
-### 🌱 Currently Learning
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=4A90E2&center=true&vCenter=true&width=550&lines=Backend+Developer;Python+%7C+Django;Clean+Architecture+%26+DDD;Always+learning+something+new" />
 
-* Domain-Driven Design (DDD)
-* Clean Architecture
-* Microservices
-* System Design
-* Testing & CI/CD
+</div>
 
-### 🚀 Current Focus
+---
 
-I'm building a comprehensive **Dental Clinic Management System** to apply enterprise software architecture, business analysis, and backend engineering best practices.
+## About
 
-### 📫 Let's Connect
+I enjoy building backend systems where the architecture matters as much as the features.
 
-I'm always interested in learning, collaborating on open-source projects, and building high-quality backend systems.
+Lately I've been spending most of my time learning Domain-Driven Design, improving software architecture, and building an enterprise-level Dental Clinic Management System.
+
+I'm interested in solving business problems through clean code rather than simply adding more code.
+
+---
+
+## Stack
+
+```text
+Languages
+
+Python
+
+Backend
+
+Django
+Django REST Framework
+
+Database
+
+PostgreSQL
+Redis
+
+DevOps
+
+Docker
+Git
+Linux
+
+Architecture
+
+Clean Architecture
+Domain-Driven Design
+REST APIs
+```
+
+---
+
+## Current Project
+
+```
+Dental Clinic Management System
+
+├── Multi-tenant ready
+├── RBAC Authorization
+├── Appointment Management
+├── Electronic Medical Records
+├── Financial & Installments
+├── Prescription Module
+├── Inventory
+└── Reporting
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+## Philosophy
+
+> Software is easier to change when its design respects the business, not just the technology.
+
+---
+
+<div align="center">
+
+```
+while (learning)
+{
+    build();
+    refactor();
+    repeat();
+}
+```
+
+</div>
